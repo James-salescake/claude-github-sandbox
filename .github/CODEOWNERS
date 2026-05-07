@@ -1,0 +1,3 @@
+# Default reviewer for all paths.
+# Add more rules as the repo grows (e.g., `/src/auth/ @auth-team`).
+* @James-salescake
